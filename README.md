@@ -4,7 +4,7 @@ I build open-source tools for HPE compute infrastructure: HPE ProLiant, iLO, Com
 
 ## Featured projects
 
-- **[proliant-mcp](https://github.com/hjma29/proliant-mcp)** – MCP server that lets AI assistants (GitHub Copilot, Claude, Codex) query HPE ProLiant iLO, HPE Compute Ops Management and HPE OneView / Synergy. Install: `uvx proliant-mcp@latest` · [Project page](https://hjma29.github.io/proliant-mcp/) · [PyPI](https://pypi.org/project/proliant-mcp/)
+- **[proliant-mcp](https://github.com/hjma29/proliant-mcp)** – MCP server that turns AI agents (Claude, GitHub Copilot, Codex) into your assistant for managing HPE compute: ProLiant (iLO), Compute Ops Management and Synergy / OneView. Install: `uvx proliant-mcp@latest` · [Project page](https://hjma29.github.io/proliant-mcp/) · [PyPI](https://pypi.org/project/proliant-mcp/)
 - **[proliant-cli](https://github.com/hjma29/proliant-cli)** – Terminal CLI for HPE ProLiant iLO, Compute Ops Management and Synergy OneView inventory, plus SPP browsing · [Docs](https://hjma29.github.io/proliant-cli/)
 - **[terraform-provider-hpeilo](https://github.com/hjma29/terraform-provider-hpeilo)** – Terraform provider for HPE ProLiant iLO Redfish OEM settings
 - **[HPE-Compute-Ops-Management-Python-Library](https://github.com/hjma29/HPE-Compute-Ops-Management-Python-Library)** – Python library for the HPE Compute Ops Management REST API
